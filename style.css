@@ -1,0 +1,60 @@
+body {
+    background: deepskyblue;
+}
+
+.main {
+    margin: 0 auto;
+    background: #dddddd;
+    width: 900px;
+    height: 718px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 25px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#letter {
+    width: 200px;
+    margin-left: 634px;
+    margin-top: -333px;
+}
+
+h1 {
+    text-align: end;
+    margin: auto;
+    font-size: 50px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.letterLeft {
+    text-align: end;
+    margin-right: 150px;
+}
+
+#reset {
+    margin-left: 600px;
+    margin-top: 1px;
+}
+
+#chances {
+    margin-top: -105px;
+}
+
+.hint {
+    background: lightseagreen;
+
+    padding: 10px;
+}
+
+span {
+    color: crimson;
+}
